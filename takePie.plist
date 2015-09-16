@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://demo.takecn.cn/images/TakePai_v1.0.0.ipa</string>
+					<string>http://pie.takecn.cn/app/ios/TakePie_releave_last.ipa</string>
 				</dict>
         <dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
           <true/>
           <key>url</key>
-					<string>https://demo.takecn.cn/images/logo.png</string>
+					<string>http://pie.takecn.cn/app/ios/logo.png</string>
 				</dict>
         <dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
           <true/>
           <key>url</key>
-					<string>https://demo.takecn.cn/images/logo.png</string>
+					<string>http://pie.takecn.cn/app/ios/logo.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
