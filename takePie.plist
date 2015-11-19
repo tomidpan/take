@@ -15,7 +15,7 @@
             <key>kind</key>  
             <string>software-package</string>  
             <key>url</key>  
-            <string>http://pie.takecn.cn/app/ios/takepie_releave_last.ipa</string> 
+            <string>http://pie.takecn.cn/app/ios/takepie_release_last.ipa</string> 
           </dict>  
           <!-- display-image: the icon to display during download. -->  
           <dict> 
