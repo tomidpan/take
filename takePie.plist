@@ -15,7 +15,7 @@
             <key>kind</key>  
             <string>software-package</string>  
             <key>url</key>  
-            <string>http://pie.takecn.cn/app/ios/TakePie_releave_last.ipa</string> 
+            <string>http://wrigleyapp.takecn.cn/app/ios/wrigley_release.ipa</string> 
           </dict>  
           <!-- display-image: the icon to display during download. -->  
           <dict> 
@@ -25,7 +25,7 @@
             <key>needs-shine</key>  
             <true/>  
             <key>url</key>  
-            <string>http://pie.takecn.cn/app/ios/TakePie_57.png</string> 
+            <string>http://wrigleyapp.takecn.cn/app/ios/wrigley_57.png</string> 
           </dict>  
           <!-- full-size-image: the large 512×512 icon used by iTunes. -->  
           <dict> 
@@ -34,7 +34,7 @@
             <key>needs-shine</key>  
             <true/>  
             <key>url</key>  
-            <string>http://pie.takecn.cn/app/ios/TakePie_512.png</string> 
+            <string>http://wrigleyapp.takecn.cn/app/ios/wrigley_512.png</string> 
           </dict> 
         </array>
         <key>metadata</key>  
@@ -46,9 +46,9 @@
           <key>kind</key>  
           <string>software</string>  
           <key>subtitle</key>  
-          <string>TakePie</string>  
+          <string>wrigley</string>  
           <key>title</key>  
-          <string>TakePie</string> 
+          <string>wrigley</string> 
         </dict> 
       </dict> 
     </array> 
